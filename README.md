@@ -1,4 +1,4 @@
-# PAtt-Lite
+# PAtt-Lite: Lightweight Patch and Attention MobileNet for Challenging Facial Expression Recognition
 This is the official implementation for our paper [PAtt-Lite: Lightweight Patch and Attention MobileNet for Challenging Facial Expression Recognition](https://arxiv.org/pdf/2306.09626.pdf). We have submitted our paper for publication and it is under review. The source codes will be updated here once the paper is accepted. 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/patt-lite-lightweight-patch-and-attention/facial-expression-recognition-on-raf-db)](https://paperswithcode.com/sota/facial-expression-recognition-on-raf-db?p=patt-lite-lightweight-patch-and-attention)
