@@ -10,8 +10,8 @@ This is the official implementation for our paper [PAtt-Lite: Lightweight Patch 
 
 Facial Expression Recognition (FER) is a machine learning problem that deals with recognizing human facial expressions. While existing work has achieved performance improvements in recent years, FER in the wild and under challenging conditions remains a challenge. In this paper, a lightweight patch and attention network based on MobileNetV1, referred to as PAtt-Lite, is proposed to improve FER performance under challenging conditions. A truncated ImageNet-pre-trained MobileNetV1 is utilized as the backbone feature extractor of the proposed method. In place of the truncated layers is a patch extraction block that is proposed for extracting significant local facial features to enhance the representation from MobileNetV1, especially under challenging conditions. An attention classifier is also proposed to improve the learning of these patched feature maps from the extremely lightweight feature extractor. The experimental results on public benchmark databases proved the effectiveness of the proposed method. PAtt-Lite achieved state-of-the-art results on CK+, RAF-DB, FER2013, FERPlus, and the challenging conditions subsets for RAF-DB and FERPlus. 
 
-## Pretrained Model
-The pretrained model for RAF-DB can be downloaded for evaluation [here](/pretrained/rafdb.h5). 
+## Training Notebook
+The training notebook is uploaded [here](PAtt-Lite Notebook.ipynb). 
 
 ## License
 PAtt-Lite is available under the MIT license. See [LICENSE](LICENSE) for details. 
